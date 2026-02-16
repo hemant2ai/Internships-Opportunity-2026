@@ -12,23 +12,86 @@ Last Updated: 16 February 2026
 Version: v0.1  
 Update Frequency: Weekly  
 
----
 
-# 📋 Internship Listings
+🇮🇳 India – Internship Opportunities
+🏢 Top Indian Companies & Government
+Organization	Role	Industry	Location	Mode	Deadline	Apply
+Digital India Corporation	Technical Intern	Government / IT	New Delhi	Onsite	2025-12-31	https://dic.gov.in
 
-| Organization | Role | Industry | Location | Mode | Deadline | Apply Link |
-|-------------|------|----------|----------|------|----------|------------|
-| Google | Software Engineering Intern | Technology | Bengaluru, India | Hybrid | 2026-03-31 | [Apply Here](https://careers.google.com) |
-| Microsoft | Product Management Intern | Technology | Hyderabad, India | Hybrid | 2026-04-15 | [Apply Here](https://careers.microsoft.com) |
-| Amazon | Operations Intern | Operations | Bangalore, India | Onsite | 2026-04-10 | [Apply Here](https://www.amazon.jobs) |
-| IIT Delhi | Research Intern | Research | Delhi, India | Onsite | 2026-05-20 | [Apply Here](https://iitd.ac.in) |
-| IIT Bombay | AI Research Intern | Research | Mumbai, India | Hybrid | 2026-05-30 | [Apply Here](https://www.iitb.ac.in) |
-| NITI Aayog | Policy Research Intern | Policy | New Delhi, India | Onsite | 2026-04-01 | [Apply Here](https://www.niti.gov.in/internship) |
-| Ministry of External Affairs | Policy Intern | Government | New Delhi, India | Onsite | 2026-03-15 | [Apply Here](https://internship.mea.gov.in) |
-| World Bank | Research Analyst Intern | Finance | Washington DC, USA | Onsite | 2026-04-30 | [Apply Here](https://www.worldbank.org/en/jobs) |
-| United Nations | Development Intern | International | New York, USA | Hybrid | 2026-05-20 | [Apply Here](https://careers.un.org) |
-| Goldman Sachs | Finance Intern | Finance | New York, USA | Onsite | 2026-05-10 | [Apply Here](https://www.goldmansachs.com/careers) |
+DRDO (CAIR Bengaluru)	Engineering Research Intern	Defense R&D	Bengaluru	Onsite	2026-02-28	https://www.drdo.gov.in
 
+ISRO	Research Intern	Aerospace	Various	Onsite	Rolling	https://www.isro.gov.in
+
+Ministry of External Affairs	Foreign Policy Intern	Government	New Delhi	Onsite	TBD	https://internship.mea.gov.in
+
+NITI Aayog	Policy Intern	Public Policy	Delhi	Hybrid	Rolling	https://niti.gov.in
+
+RBI	Research Intern	Finance	Mumbai	Onsite	TBD	https://rbi.org.in
+
+SEBI	Legal/Finance Intern	Finance	Mumbai	Onsite	Rolling	https://sebi.gov.in
+
+TCS	Engineering Intern	Technology	PAN India	Hybrid	Rolling	https://www.tcs.com/careers
+
+Infosys	Systems Intern	Technology	India	Onsite	Rolling	https://www.infosys.com/careers
+
+Wipro	Tech Intern	IT Services	India	Hybrid	Rolling	https://careers.wipro.com
+🎓 IIT Research Internships (India)
+IIT	Program	Field	Location	Mode	Apply
+IIT Bombay	Summer Research Fellowship	Engineering & Science	Mumbai	Onsite	https://www.iitb.ac.in
+
+IIT Delhi	Undergraduate Research Internship	Tech & Policy	Delhi	Onsite	https://home.iitd.ac.in
+
+IIT Madras	Research Internship	AI / Robotics	Chennai	Onsite	https://www.iitm.ac.in
+
+IIT Kanpur	SURGE Internship	Engineering	Kanpur	Onsite	https://www.iitk.ac.in
+
+IIT Kharagpur	Summer Internship	Core Engineering	Kharagpur	Onsite	https://www.iitkgp.ac.in
+
+IIT Roorkee	Research Intern	Civil/Mechanical	Roorkee	Onsite	https://www.iitr.ac.in
+
+IIT Guwahati	Research Program	Tech & Science	Guwahati	Onsite	https://www.iitg.ac.in
+
+IIT Hyderabad	AI Internship	Artificial Intelligence	Hyderabad	Hybrid	https://www.iith.ac.in
+
+IIT BHU	Engineering Internship	Engineering	Varanasi	Onsite	https://www.iitbhu.ac.in
+🌍 Global Internships – 2026
+🏢 Big Tech
+Organization	Role	Location	Mode	Deadline	Apply
+Google	Software Engineering Intern	Global	Onsite	Rolling	https://careers.google.com
+
+Microsoft	SWE Intern	USA/Global	Hybrid	Rolling	https://careers.microsoft.com
+
+Amazon	Operations Intern	USA	Onsite	Rolling	https://amazon.jobs
+
+Meta	Data Science Intern	USA	Hybrid	Rolling	https://careers.meta.com
+
+Apple	Hardware Engineering Intern	USA	Onsite	Rolling	https://jobs.apple.com
+
+NVIDIA	AI Research Intern	USA	Onsite	Rolling	https://nvidia.wd5.myworkdayjobs.com
+
+Intel	Semiconductor Intern	Global	Onsite	Rolling	https://intel.wd1.myworkdayjobs.com
+🏦 Finance
+Organization	Role	Location	Apply
+Goldman Sachs	Summer Analyst	Global	https://www.goldmansachs.com/careers
+
+JPMorgan Chase	Analyst Intern	USA	https://careers.jpmorgan.com
+
+Morgan Stanley	Investment Banking Intern	Global	https://www.morganstanley.com
+
+BlackRock	Analyst Intern	USA	https://careers.blackrock.com
+🌐 International Organizations
+Organization	Role	Location	Apply
+United Nations	Policy Intern	New York / Geneva	https://careers.un.org
+
+World Bank	Research Intern	Washington DC	https://worldbank.org/careers
+
+IMF	Fund Internship Program	USA	https://www.imf.org
+
+World Economic Forum	Early Careers	USA/Europe	https://www.weforum.org/careers
+
+European Space Agency	Student Internship	Europe	https://jobs.esa.int
+
+NASA	STEM Internship	USA	https://stemgateway.nasa.gov
 ---
 
 # 🔎 How to Use This List
