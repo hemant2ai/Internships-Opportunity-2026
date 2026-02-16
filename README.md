@@ -14,7 +14,9 @@ Update Frequency: Weekly
 
 
 🇮🇳 India – Internship Opportunities
-🏢 Top Indian Companies & Government
+
+## 🏢 Top Indian Companies & Government
+
 Organization	Role	Industry	Location	Mode	Deadline	Apply
 Digital India Corporation	Technical Intern	Government / IT	New Delhi	Onsite	2025-12-31	https://dic.gov.in
 
@@ -35,7 +37,11 @@ TCS	Engineering Intern	Technology	PAN India	Hybrid	Rolling	https://www.tcs.com/c
 Infosys	Systems Intern	Technology	India	Onsite	Rolling	https://www.infosys.com/careers
 
 Wipro	Tech Intern	IT Services	India	Hybrid	Rolling	https://careers.wipro.com
+
+
 🎓 IIT Research Internships (India)
+
+
 IIT	Program	Field	Location	Mode	Apply
 IIT Bombay	Summer Research Fellowship	Engineering & Science	Mumbai	Onsite	https://www.iitb.ac.in
 
@@ -54,8 +60,11 @@ IIT Guwahati	Research Program	Tech & Science	Guwahati	Onsite	https://www.iitg.ac
 IIT Hyderabad	AI Internship	Artificial Intelligence	Hyderabad	Hybrid	https://www.iith.ac.in
 
 IIT BHU	Engineering Internship	Engineering	Varanasi	Onsite	https://www.iitbhu.ac.in
-🌍 Global Internships – 2026
+
+
+## Global Internships – 2026
 🏢 Big Tech
+
 Organization	Role	Location	Mode	Deadline	Apply
 Google	Software Engineering Intern	Global	Onsite	Rolling	https://careers.google.com
 
@@ -70,7 +79,10 @@ Apple	Hardware Engineering Intern	USA	Onsite	Rolling	https://jobs.apple.com
 NVIDIA	AI Research Intern	USA	Onsite	Rolling	https://nvidia.wd5.myworkdayjobs.com
 
 Intel	Semiconductor Intern	Global	Onsite	Rolling	https://intel.wd1.myworkdayjobs.com
-🏦 Finance
+
+
+## Finance
+
 Organization	Role	Location	Apply
 Goldman Sachs	Summer Analyst	Global	https://www.goldmansachs.com/careers
 
@@ -79,7 +91,8 @@ JPMorgan Chase	Analyst Intern	USA	https://careers.jpmorgan.com
 Morgan Stanley	Investment Banking Intern	Global	https://www.morganstanley.com
 
 BlackRock	Analyst Intern	USA	https://careers.blackrock.com
-🌐 International Organizations
+
+## International Organizations
 Organization	Role	Location	Apply
 United Nations	Policy Intern	New York / Geneva	https://careers.un.org
 
