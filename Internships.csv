@@ -1,8 +1,23 @@
-organization,role,industry,category,location,country,mode,type,deadline,link
-IIT Delhi,Research Intern,Research,IIT Research,Delhi,India,Onsite,Academic,30-04-2026,https://...
-IIT Bombay,AI Research Intern,Research,IIT Research,Mumbai,India,Hybrid,Academic,Rolling,https://...
-TCS,Software Engineering Intern,Technology,Big Company,Bangalore,India,Onsite,Private,15-03-2026,https://...
-Infosys,Data Analyst Intern,Technology,Big Company,Pune,India,Hybrid,Private,Rolling,https://...
-Unilever,Marketing Intern,Marketing,Big Company,Mumbai,India,Onsite,Private,01-05-2026,https://...
-Google,Software Intern,Technology,Big Company,Global,Global,Hybrid,Private,Rolling,https://...
-World Bank,Research Analyst Intern,Finance,International,Washington DC,USA,Onsite,International,30-04-2026,https://...
+organization,role,industry,category,location,country,mode,type,deadline,posted_date,link,status
+Indian Institute of Technology Delhi,Research Intern,Research,IIT Research,Delhi,India,Onsite,Academic,2026-05-15,2026-02-10,https://iitd.ac.in/internship2026,Active
+Indian Institute of Technology Bombay,AI Research Intern,Research,IIT Research,Mumbai,India,Hybrid,Academic,2026-05-30,2026-02-12,https://www.iitb.ac.in/srip2026,Active
+Indian Institute of Technology Madras,Research Intern,Research,IIT Research,Chennai,India,Onsite,Academic,2026-05-20,2026-02-08,https://iitm.ac.in/internship2026,Active
+Tata Consultancy Services,Software Engineering Intern,Technology,Big Company,Bangalore,India,Onsite,Private,2026-03-31,2026-02-05,https://www.tcs.com/careers/internship,Active
+Infosys,Data Analyst Intern,Technology,Big Company,Pune,India,Hybrid,Private,2026-04-15,2026-02-07,https://infyspringboard.onwingspan.com,Active
+Reliance Industries,Marketing Intern,Marketing,Big Company,Mumbai,India,Hybrid,Private,2026-04-30,2026-02-03,https://ril.com/internship2026,Active
+Hindustan Unilever,Brand Strategy Intern,Marketing,Big Company,Mumbai,India,Onsite,Private,2026-05-05,2026-02-01,https://careers.hul.co.in/internships,Active
+Ministry of External Affairs,Policy Intern,Policy,Government,New Delhi,India,Onsite,Government,2026-03-15,2026-01-20,https://internship.mea.gov.in,Active
+AICTE Internship Portal,Various Internships,Multiple,Government,Pan India,India,Remote,Government,2026-06-30,2026-01-25,https://internship.aicte-india.org,Active
+NITI Aayog,Policy Research Intern,Policy,Government,New Delhi,India,Onsite,Government,2026-04-10,2026-01-30,https://www.niti.gov.in/internship,Active
+Google,Software Engineering Intern,Technology,Big Tech,Bengaluru,India,Hybrid,Private,2026-03-31,2026-02-02,https://careers.google.com,Active
+Amazon,Operations Intern,Operations,Big Tech,Bangalore,India,Onsite,Private,2026-04-15,2026-02-04,https://www.amazon.jobs,Active
+Microsoft,Product Management Intern,Technology,Big Tech,Hyderabad,India,Hybrid,Private,2026-05-10,2026-02-06,https://careers.microsoft.com,Active
+World Bank,Research Analyst Intern,Finance,International Organization,Washington DC,USA,Onsite,International,2026-04-30,2026-02-03,https://www.worldbank.org/en/jobs,Active
+International Monetary Fund,Economic Research Intern,Economics,International Organization,Washington DC,USA,Onsite,International,2026-04-25,2026-02-01,https://www.imf.org/en/About/jobs,Active
+United Nations,Development Intern,Policy,International Organization,New York,USA,Hybrid,International,2026-05-20,2026-02-05,https://careers.un.org,Active
+Google (Global),STEP Intern,Technology,Big Tech,Global,Global,Remote,Private,2026-03-31,2026-02-02,https://careers.google.com,Active
+Meta,Data Science Intern,Technology,Big Tech,Global,Global,Remote,Private,2026-04-15,2026-02-07,https://www.metacareers.com,Active
+Goldman Sachs,Finance Intern,Finance,Global Bank,New York,USA,Onsite,Private,2026-05-10,2026-02-03,https://www.goldmansachs.com/careers,Active
+McKinsey & Company,Business Analyst Intern,Consulting,Global Consulting,Global,Global,Remote,Private,2026-05-05,2026-02-05,https://www.mckinsey.com/careers,Active
+Unilever (Global),Sustainability Intern,Marketing,Global Company,London,UK,Hybrid,Private,2026-05-15,2026-02-01,https://www.unilever.com/careers,Active
+Siemens,Engineering Intern,Engineering,Global Company,Berlin,Germany,Hybrid,Private,2026-05-20,2026-02-08,https://new.siemens.com/global/en/company/jobs.html,Active
