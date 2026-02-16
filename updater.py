@@ -1,47 +1,32 @@
-import pandas as pd
+import csv
 from datetime import datetime
 
-FILE_NAME = "Internships.csv"   # Make sure this matches your actual file name exactly
+INPUT_FILE = "internships.csv"
+OUTPUT_FILE = "internships_updated.csv"
 
-def update_expired_status():
-    try:
-        df = pd.read_csv(FILE_NAME)
-    except FileNotFoundError:
-        print(f"Error: {FILE_NAME} not found.")
-        return
+today = datetime.today().date()
 
-    # Ensure deadline column exists
-    if "deadline" not in df.columns:
-        print("Error: 'deadline' column not found in CSV.")
-        return
+with open(INPUT_FILE, newline='', encoding="utf-8") as infile, \
+     open(OUTPUT_FILE, 'w', newline='', encoding="utf-8") as outfile:
 
-    if "status" not in df.columns:
-        print("Error: 'status' column not found in CSV.")
-        return
+    reader = csv.DictReader(infile)
+    fieldnames = reader.fieldnames
+    writer = csv.DictWriter(outfile, fieldnames=fieldnames)
+    writer.writeheader()
 
-    today = datetime.today()
+    for row in reader:
+        deadline = row["Deadline"]
 
-    # Convert deadline to datetime
-    df["deadline"] = pd.to_datetime(df["deadline"], errors="coerce")
+        if deadline and deadline != "Rolling" and deadline != "TBD":
+            try:
+                deadline_date = datetime.strptime(deadline, "%Y-%m-%d").date()
+                if deadline_date < today:
+                    row["Status"] = "Expired"
+                else:
+                    row["Status"] = "Active"
+            except:
+                row["Status"] = "Unknown"
 
-    # Track changes
-    expired_count = 0
+        writer.writerow(row)
 
-    for index, row in df.iterrows():
-        deadline = row["deadline"]
-
-        if pd.notnull(deadline):
-            if deadline < today and row["status"] == "Active":
-                df.at[index, "status"] = "Expired"
-                expired_count += 1
-
-    # Save updated file
-    df.to_csv(FILE_NAME, index=False)
-
-    print("\nUpdate Complete.")
-    print(f"Expired internships marked: {expired_count}")
-    print(f"File updated: {FILE_NAME}")
-
-if __name__ == "__main__":
-    update_expired_status()
-
+print("Internships updated successfully.")
