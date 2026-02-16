@@ -1,44 +1,31 @@
 import pandas as pd
-
+import argparse
+from datetime import datetime
 
 def load_data():
-    return pd.read_csv("internships.csv")
+    df = pd.read_csv("internships.csv")
+    return df
 
-
-def filter_data(df, country=None, industry=None, category=None, keyword=None):
-    if country:
-        df = df[df["country"].str.contains(country, case=False, na=False)]
-
-    if industry:
-        df = df[df["industry"].str.contains(industry, case=False, na=False)]
-
-    if category:
-        df = df[df["category"].str.contains(category, case=False, na=False)]
+def filter_data(df, keyword=None, country=None, category=None, show_expired=False):
+    if not show_expired:
+        df = df[df["status"] == "Active"]
 
     if keyword:
-        df = df[df["role"].str.contains(keyword, case=False, na=False)]
+        df = df[df.apply(lambda row: keyword.lower() in str(row).lower(), axis=1)]
+
+    if country:
+        df = df[df["country"].str.lower() == country.lower()]
+
+    if category:
+        df = df[df["category"].str.lower() == category.lower()]
 
     return df
 
+def sort_by_deadline(df):
+    df["deadline"] = pd.to_datetime(df["deadline"], errors="coerce")
+    return df.sort_values(by="deadline")
 
 def main():
-    print("\n=== Internship Opportunities 2026 ===\n")
+    parser = argparse.ArgumentParser(description="Filter Internship Listings")
 
-    df = load_data()
-
-    country = input("Filter by Country (or press Enter to skip): ")
-    industry = input("Filter by Industry (or press Enter to skip): ")
-    category = input("Filter by Category (or press Enter to skip): ")
-    keyword = input("Search by Role Keyword (or press Enter to skip): ")
-
-    result = filter_data(df, country, industry, category, keyword)
-
-    if result.empty:
-        print("\nNo matching internships found.\n")
-    else:
-        print("\nMatching Opportunities:\n")
-        print(result[["organization", "role", "location", "deadline"]].to_string(index=False))
-
-
-if __name__ == "__main__":
-    main()
+    parser.ad
