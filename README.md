@@ -1,23 +1,9 @@
-# Internships-Opportunity-2026
-Build a centralized system where anyone can find live internship opportunities for 2026.
-
-India Opportunities
-Microsoft Research India (Bangalore): Research Intern in AI/ML/Human-Centered Computing (Jan-Jun 2026 batch). Rolling applications.
-Apply via LinkedIn Form
-​
-
-NGSF Internship Program: Life Sciences Research (on-site/remote at Indian labs). Deadline: Mar 15, 2026.
-Apply Online
-​
-
-IISc CNI / IIT Kanpur SURGE: Summer Research Internships 2026. Deadlines: Feb-Mar 2026.
-Full List & Apply
-​
-
-Global Opportunities
-Google Research: PhD/MS Research Intern (Summer 2026). Early apps open (rolling).
-FAANG Guide & Portal
-​
-
-Amazon Science: Applied Scientist Intern (US/Global). Rolling.
-Careers Page
+| Company/Org                   | Role                       | Location    | Stipend     | Deadline               | Apply Link              |
+| ----------------------------- | -------------------------- | ----------- | ----------- | ---------------------- | ----------------------- |
+| Microsoft Research India      | Research Intern (AI/ML)    | Bangalore   | Competitive | Rolling (Jan-Jun 2026) | LinkedIn Form linkedin​ |
+| NGSF                          | Life Sciences Research     | Indian Labs | ₹3-6k/mo    | Mar 15, 2026           | Apply ngsf​             |
+| inStem                        | Summer Research Fellowship | Bangalore   | ₹10k/mo     | Mar 1, 2026            | Apply biotecnika​       |
+| NFI                           | Rural Field Research       | Various     | Stipend     | Feb 25, 2026           | Apply nfi​              |
+| IITB Research Awards          | Project Research           | Mumbai      | Varies      | Rolling                | Apply ircc.iitb​        |
+| NITI Aayog                    | Policy Research            | Delhi       | ₹10k/mo     | Monthly                | Apply niti​             |
+| IISc/IIT Summer (SURGE, SRFP) | Summer Research            | Various     | Varies      | Feb-Mar 2026           | List gradsqr​           |
