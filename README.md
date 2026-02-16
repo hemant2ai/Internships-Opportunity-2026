@@ -36,9 +36,3 @@ Update Frequency: Weekly
 
 ---
 
-## 🚀 How to Use
-
-### 1️⃣ Install Requirements
-
-```bash
-pip install -r requirements.txt
