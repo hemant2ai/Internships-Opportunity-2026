@@ -1,7 +1,7 @@
 import pandas as pd
 from datetime import datetime
 
-FILE_NAME = "internships.csv"   # Make sure this matches your actual file name exactly
+FILE_NAME = "Internships.csv"   # Make sure this matches your actual file name exactly
 
 def update_expired_status():
     try:
