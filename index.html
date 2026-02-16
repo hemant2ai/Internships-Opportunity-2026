@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Internships 2026</title>
+<script>
+async function loadData() {
+  const response = await fetch('internships.csv');
+  const text = await response.text();
+  const rows = text.split('\n').slice(1);
+
+  const table = document.getElementById("table");
+
+  rows.forEach(row => {
+    const cols = row.split(',');
+    if(cols.length > 5) {
+      const tr = document.createElement("tr");
+      tr.innerHTML = `
+        <td>${cols[0]}</td>
+        <td>${cols[1]}</td>
+        <td>${cols[3]}</td>
+        <td>${cols[4]}</td>
+        <td><a href="${cols[8]}" target="_blank">Apply</a></td>
+      `;
+      table.appendChild(tr);
+    }
+  });
+}
+
+function search() {
+  const input = document.getElementById("search").value.toLowerCase();
+  const rows = document.querySelectorAll("tbody tr");
+
+  rows.forEach(row => {
+    row.style.display = row.innerText.toLowerCase().includes(input) ? "" : "none";
+  });
+}
+
+window.onload = loadData;
+</script>
+</head>
+<body>
+
+<h1>Internship Opportunities 2026</h1>
+<input type="text" id="search" onkeyup="search()" placeholder="Search internships...">
+
+<table border="1">
+<thead>
+<tr>
+<th>Organization</th>
+<th>Role</th>
+<th>Location</th>
+<th>Country</th>
+<th>Apply</th>
+</tr>
+</thead>
+<tbody id="table"></tbody>
+</table>
+
+</body>
+</html>
