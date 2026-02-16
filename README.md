@@ -1,9 +1,44 @@
-| Company/Org                   | Role                       | Location    | Stipend     | Deadline               | Apply Link              |
-| ----------------------------- | -------------------------- | ----------- | ----------- | ---------------------- | ----------------------- |
-| Microsoft Research India      | Research Intern (AI/ML)    | Bangalore   | Competitive | Rolling (Jan-Jun 2026) | LinkedIn Form - https://www.linkedin.com/posts/akash-kamerkar-datascientist_microsoft-research-india-is-hiring-research-activity-740872552369218...|
-| NGSF                          | Life Sciences Research     | Indian Labs | ₹3-6k/mo    | Mar 15, 2026           | Apply ngsf​             |
-| inStem                        | Summer Research Fellowship | Bangalore   | ₹10k/mo     | Mar 1, 2026            | Apply biotecnika​       |
-| NFI                           | Rural Field Research       | Various     | Stipend     | Feb 25, 2026           | Apply nfi​              |
-| IITB Research Awards          | Project Research           | Mumbai      | Varies      | Rolling                | Apply ircc.iitb​        |
-| NITI Aayog                    | Policy Research            | Delhi       | ₹10k/mo     | Monthly                | Apply niti​             |
-| IISc/IIT Summer (SURGE, SRFP) | Summer Research            | Various     | Varies      | Feb-Mar 2026           | List gradsqr​           |
+# Internships Opportunity 2026
+
+A structured, regularly updated public database of internship opportunities across India and globally.
+
+This project aims to provide verified, categorized, and deadline-tracked internships across industries such as Technology, Research, Marketing, Finance, HR, Policy, and more.
+
+---
+
+## 📌 Project Status
+
+Last Updated: 16 February 2026  
+Version: v0.1  
+Update Frequency: Weekly  
+
+---
+
+## 📂 Repository Structure
+
+
+### Field Explanation
+
+| Field | Description |
+|--------|-------------|
+| organization | Company / Institute name |
+| role | Internship title |
+| industry | Tech, Marketing, Research, etc. |
+| category | IIT Research, Big Company, Government, etc. |
+| location | City |
+| country | Country |
+| mode | Onsite / Hybrid / Remote |
+| type | Academic / Private / Government / International |
+| deadline | YYYY-MM-DD format |
+| posted_date | YYYY-MM-DD format |
+| link | Official application link |
+| status | Active / Expired |
+
+---
+
+## 🚀 How to Use
+
+### 1️⃣ Install Requirements
+
+```bash
+pip install -r requirements.txt
