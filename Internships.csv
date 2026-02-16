@@ -1,23 +1,29 @@
-organization,role,industry,category,location,country,mode,type,deadline,posted_date,link,status
-Indian Institute of Technology Delhi,Research Intern,Research,IIT Research,Delhi,India,Onsite,Academic,2026-05-15,2026-02-10,https://iitd.ac.in/internship2026,Active
-Indian Institute of Technology Bombay,AI Research Intern,Research,IIT Research,Mumbai,India,Hybrid,Academic,2026-05-30,2026-02-12,https://www.iitb.ac.in/srip2026,Active
-Indian Institute of Technology Madras,Research Intern,Research,IIT Research,Chennai,India,Onsite,Academic,2026-05-20,2026-02-08,https://iitm.ac.in/internship2026,Active
-Tata Consultancy Services,Software Engineering Intern,Technology,Big Company,Bangalore,India,Onsite,Private,2026-03-31,2026-02-05,https://www.tcs.com/careers/internship,Active
-Infosys,Data Analyst Intern,Technology,Big Company,Pune,India,Hybrid,Private,2026-04-15,2026-02-07,https://infyspringboard.onwingspan.com,Active
-Reliance Industries,Marketing Intern,Marketing,Big Company,Mumbai,India,Hybrid,Private,2026-04-30,2026-02-03,https://ril.com/internship2026,Active
-Hindustan Unilever,Brand Strategy Intern,Marketing,Big Company,Mumbai,India,Onsite,Private,2026-05-05,2026-02-01,https://careers.hul.co.in/internships,Active
-Ministry of External Affairs,Policy Intern,Policy,Government,New Delhi,India,Onsite,Government,2026-03-15,2026-01-20,https://internship.mea.gov.in,Active
-AICTE Internship Portal,Various Internships,Multiple,Government,Pan India,India,Remote,Government,2026-06-30,2026-01-25,https://internship.aicte-india.org,Active
-NITI Aayog,Policy Research Intern,Policy,Government,New Delhi,India,Onsite,Government,2026-04-10,2026-01-30,https://www.niti.gov.in/internship,Active
-Google,Software Engineering Intern,Technology,Big Tech,Bengaluru,India,Hybrid,Private,2026-03-31,2026-02-02,https://careers.google.com,Active
-Amazon,Operations Intern,Operations,Big Tech,Bangalore,India,Onsite,Private,2026-04-15,2026-02-04,https://www.amazon.jobs,Active
-Microsoft,Product Management Intern,Technology,Big Tech,Hyderabad,India,Hybrid,Private,2026-05-10,2026-02-06,https://careers.microsoft.com,Active
-World Bank,Research Analyst Intern,Finance,International Organization,Washington DC,USA,Onsite,International,2026-04-30,2026-02-03,https://www.worldbank.org/en/jobs,Active
-International Monetary Fund,Economic Research Intern,Economics,International Organization,Washington DC,USA,Onsite,International,2026-04-25,2026-02-01,https://www.imf.org/en/About/jobs,Active
-United Nations,Development Intern,Policy,International Organization,New York,USA,Hybrid,International,2026-05-20,2026-02-05,https://careers.un.org,Active
-Google (Global),STEP Intern,Technology,Big Tech,Global,Global,Remote,Private,2026-03-31,2026-02-02,https://careers.google.com,Active
-Meta,Data Science Intern,Technology,Big Tech,Global,Global,Remote,Private,2026-04-15,2026-02-07,https://www.metacareers.com,Active
-Goldman Sachs,Finance Intern,Finance,Global Bank,New York,USA,Onsite,Private,2026-05-10,2026-02-03,https://www.goldmansachs.com/careers,Active
-McKinsey & Company,Business Analyst Intern,Consulting,Global Consulting,Global,Global,Remote,Private,2026-05-05,2026-02-05,https://www.mckinsey.com/careers,Active
-Unilever (Global),Sustainability Intern,Marketing,Global Company,London,UK,Hybrid,Private,2026-05-15,2026-02-01,https://www.unilever.com/careers,Active
-Siemens,Engineering Intern,Engineering,Global Company,Berlin,Germany,Hybrid,Private,2026-05-20,2026-02-08,https://new.siemens.com/global/en/company/jobs.html,Active
+Organization,Role/Title,Industry,Location,Mode,Deadline,Posted Date,Application Link
+Digital India Corporation,Technical Intern (50 positions),Government/IT,New Delhi, India,Onsite,2025-12-31,2025-12-01,https://dic.gov.in/jobs/technical-interns-50 (apply via official form)
+DRDO (CAIR Bengaluru),Engineering Research Intern (6 months),Defense R&D,Bengaluru, India,Onsite,2026-02-28,2026-02-12,DRDO CAIR recruitment page (apply via email)
+Google,Silicon Engineering Intern,Engineering (Semiconductor),New Taipei City, Taiwan,Onsite,2026-02-28,2025-12-01,https://www.google.com/about/careers/applications/jobs/results/106735309995025094-silicon-engineering-intern-2026 :contentReference[oaicite:0]{index=0}
+NASA Internships,NASA STEM Intern (various roles),Aerospace/Research,Multiple USA,Onsite,2026-02-27,2026-01-01,https://stemgateway.nasa.gov/public/s/explore-opportunities :contentReference[oaicite:1]{index=1}
+NIH (NIH SIP),Summer Research Intern (SIP),Biomedical Research,Bethesda, MD, USA,Onsite,2026-02-18,2025-12-08,https://www.training.nih.gov (NIH Application Center):contentReference[oaicite:2]{index=2}
+Goldman Sachs,Summer Analyst Program,Finance (Investment Banking),Multiple (Americas),Onsite,Rolling,2025-08-01,https://www.goldmansachs.com/careers/students/programs-and-internships/americas/2026-summer-analyst-program :contentReference[oaicite:3]{index=3}
+Amazon Web Services,Marketing Specialist Intern,Technology/Cloud (Marketing),Singapore,Onsite,Rolling,2025-10-01,https://amazon.jobs (AWS intern listings):contentReference[oaicite:4]{index=4}
+McKinsey & Company,Recruiting Intern,Consulting (HR),Cologne, Germany,Onsite,2026-03-29,2026-01-15,https://www.mckinsey.com/careers (Recruiting Intern):contentReference[oaicite:5]{index=5}
+U.S. Dept. of Energy (Office of Policy),DOE Scholars Intern (Policy),Energy/Policy,Washington, DC,Hybrid,2026-03-02,2026-02-14,https://www.energy.gov/careers (DOE Scholars OP):contentReference[oaicite:6]{index=6}
+World Economic Forum,Early Careers Program (Spring 2026),International Development,New York, USA,Onsite,2025-11-26,2025-09-01,https://www.weforum.org/careers (Early Careers):contentReference[oaicite:7]{index=7}
+European Space Agency,Student Internship Program (2026),Aerospace/Engineering,Europe,Onsite,2025-11-30,2025-10-01,https://jobs.esa.int (open Nov 2025):contentReference[oaicite:8]{index=8}
+United Nations (New York),UN Journalism Intern,Policy/Media,New York, USA,Onsite,2026-02-27,2026-02-12,https://careers.un.org (Job ID 272237):contentReference[oaicite:9]{index=9}
+U.S. EPA,Various STEM Internships,Environmental Science,USA,Onsite/Remote,Rolling,2025-12-01,https://www.epa.gov/careers/students (internships)
+Big Tech Co. (FAANG),Software Engineering Intern,Technology,Global (various),Onsite/Hybrid,Rolling,2025-10-01,Corporate career page (e.g., Amazon.jobs, Google Careers)
+Indian MEA (Ministry of External Affairs),Foreign Policy Intern,Government (Diplomacy),New Delhi, India,Onsite,2026-xx-xx,2026-02-09,https://internship.mea.gov.in (application portal)
+Intel Corp.,Hardware Engineering Intern,Technology (Semiconductor),USA/Global,Onsite,2026-xx-xx,2025-11-01,https://intel.wd1.myworkdayjobs.com (search internships)
+IBM Corp.,Software Developer Intern,Technology,Multiple,Onsite,Rolling,2025-12-01,https://www.ibm.com/careers (internships)
+World Bank,Policy Research Intern,Economics/Policy,Washington, DC,USA,Onsite,2026-03-01,2026-01-10,https://worldbank.org/careers (internship programs)
+United Nations (Geneva),Conference Management Intern,International Organizations,Geneva, Switzerland,Onsite,2026-xx-xx,2026-02-05,https://careers.un.org (Geneva internships)
+Tesla Inc.,Autopilot AI Intern,Automotive/AI,Palo Alto, USA,Onsite,2026-xx-xx,2025-11-01,https://tesla.com/careers (search internships)
+SpaceX,Propulsion Lab Intern,Aerospace,Los Angeles, USA,Onsite,2026-xx-xx,2025-10-15,https://spacex.com/careers (internships)
+Boston Consulting Group (BCG),Summer Associate,Consulting,Global (various),Onsite,2026-xx-xx,2025-12-01,https://careers.bcg.com (internships)
+IBM Research,Research Intern,Technology (R&D),Multiple,Hybrid,Rolling,2025-11-01,https://research.ibm.com (internships)
+Google,Software Engineering Intern,Technology (Software),Global (various),Onsite,Rolling,2025-10-01,https://careers.google.com (engineering internships)
+Amazon,Operations Manager Intern,Retail/Operations,USA,Onsite,Rolling,2025-11-01,https://amazon.jobs (search operations intern)
+JPMorgan Chase,Summer Analyst (Finance),Finance,Multiple,Onsite,Rolling,2025-09-01,https://careers.jpmorgan.com (internship programs)
+KPMG (India),Business Consulting Intern,Consulting,Mumbai/Bengaluru,India,Onsite,2026-03-31,2026-02-15,https://kpmg.com (India student careers)
+Deloitte (USA),Technology Consulting Intern,Consulting (Tech),USA,Onsite,2026-xx-xx,2025-12-01,https://careers2.deloitte.com (internship jobs)
